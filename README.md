@@ -2,7 +2,7 @@
 
 **Autor:** Ilias Akri    
 **Asignatura:** Cultura digital 
-**Fecha:** -
+**Fecha:** 11/05/2026
 
 
 ## Introducción
