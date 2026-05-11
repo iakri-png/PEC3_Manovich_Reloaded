@@ -1,3 +1,5 @@
+<img width="301" height="167" alt="descarga" src="https://github.com/user-attachments/assets/fce78721-3923-49f1-9e77-c882a67c9ccf" />
+<img width="194" height="259" alt="117644263_1445108145675627_6338857444086741844_n" src="https://github.com/user-attachments/assets/e0e5af2d-860b-4acb-a57c-40027d22f9e6" />
 # PEC3 – Manovich Reloaded
 
 **Autor:** Ilias Akri    
