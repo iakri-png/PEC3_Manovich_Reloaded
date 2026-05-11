@@ -63,5 +63,6 @@ Si Manovich analizara hoy estos fenómenos, probablemente destacaría cómo las 
 - Manovich, L. (2013). *El software toma el mando*
 
 ## Enlaces
+
 - [Fortnite](https://www.epicgames.com/fortnite)
 - [Twitch](https://www.twitch.tv)
