@@ -4,13 +4,12 @@
 **Asignatura:** Cultura digital 
 **Fecha:** -
 
----
 
 ## Introducción
 
 A partir de las ideas de Lev Manovich sobre el papel del software en la cultura contemporánea, este trabajo analiza dos casos actuales de hibridación digital que no aparecen en sus obras: Fortnite y Twitch. Ambos ejemplos permiten observar cómo los medios, las prácticas culturales y las lógicas algorítmicas convergen en plataformas complejas que van más allá de su función original.
 
----
+
 
 ## Caso 1: Fortnite como entorno híbrido
 
@@ -28,7 +27,7 @@ En conjunto, Fortnite deja de ser únicamente un videojuego para convertirse en 
 <p align="center">
 <img width="194" height="259" alt="117644263_1445108145675627_6338857444086741844_n" src="https://github.com/user-attachments/assets/e0e5af2d-860b-4acb-a57c-40027d22f9e6" />
 </p>
----
+
 
 ## Caso 2: Twitch y la hibridación del entretenimiento en directo
 
@@ -48,7 +47,7 @@ En definitiva, Twitch no es solo una plataforma de streaming, sino un entorno h�
 <p align="center">
 <img width="301" height="167" alt="descarga" src="https://github.com/user-attachments/assets/fce78721-3923-49f1-9e77-c882a67c9ccf" />
 </p>
----
+
 
 ## Conclusión
 
@@ -56,7 +55,7 @@ Los casos de Fortnite y Twitch muestran cómo la hibridación digital se ha inte
 
 Si Manovich analizara hoy estos fenómenos, probablemente destacaría cómo las fronteras entre medios han desaparecido casi por completo, dando lugar a plataformas donde todo —juego, comunicación, espectáculo— se integra en un mismo sistema.
 
----
+
 
 ## Referencias
 
