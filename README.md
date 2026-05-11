@@ -25,7 +25,7 @@ Desde el punto de vista técnico, esta hibridación se apoya en una estructura m
 Otro elemento relevante es la dimensión económica. La presencia de microtransacciones, contenidos exclusivos y colaboraciones comerciales muestra cómo la experiencia cultural está cada vez más integrada con modelos de negocio digitales. En este sentido, Fortnite no solo organiza la interacción de los usuarios, sino también las formas de consumo.
 
 En conjunto, Fortnite deja de ser únicamente un videojuego para convertirse en una plataforma cultural híbrida, donde diferentes medios y prácticas se combinan bajo una misma lógica de software.
-<img width="301" height="167" alt="descarga" src="https://github.com/user-attachments/assets/fce78721-3923-49f1-9e77-c882a67c9ccf" />
+<img width="194" height="259" alt="117644263_1445108145675627_6338857444086741844_n" src="https://github.com/user-attachments/assets/e0e5af2d-860b-4acb-a57c-40027d22f9e6" />
 
 ---
 
@@ -44,7 +44,7 @@ Otro aspecto interesante es la diversidad de contenidos. Aunque el videojuego si
 Desde una mirada crítica, también aparecen ciertas tensiones. La necesidad de mantener la atención constante de la audiencia y la dependencia de los sistemas de visibilidad pueden condicionar la forma en que los creadores producen contenido. Esto introduce nuevas dinámicas dentro de la economía digital, donde la interacción se convierte en un recurso clave.
 
 En definitiva, Twitch no es solo una plataforma de streaming, sino un entorno híbrido donde convergen comunicación, entretenimiento y participación en tiempo real, todo ello articulado a través del software.
-<img width="194" height="259" alt="117644263_1445108145675627_6338857444086741844_n" src="https://github.com/user-attachments/assets/e0e5af2d-860b-4acb-a57c-40027d22f9e6" />
+<img width="301" height="167" alt="descarga" src="https://github.com/user-attachments/assets/fce78721-3923-49f1-9e77-c882a67c9ccf" />
 
 ---
 
