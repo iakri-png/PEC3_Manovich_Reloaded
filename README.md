@@ -1,7 +1,7 @@
 # PEC3 – Manovich Reloaded
 
 **Autor:** Ilias Akri    
-**Asignatura:** Cultura digital 
+**Asignatura:** Cultura digital <br>
 **Fecha:** 11/05/2026
 
 
