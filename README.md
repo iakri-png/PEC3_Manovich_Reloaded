@@ -60,6 +60,8 @@ Si Manovich analizara hoy estos fenómenos, probablemente destacaría cómo las 
 ## Referencias
 
 - Manovich, L. (2001). *El lenguaje de los nuevos medios*  
-- Manovich, L. (2013). *El software toma el mando*  
-- https://www.epicgames.com/fortnite  
-- https://www.twitch.tv  
+- Manovich, L. (2013). *El software toma el mando*
+
+## Enlaces
+- [Fortnite](https://www.epicgames.com/fortnite)
+- [Twitch](https://www.twitch.tv)
